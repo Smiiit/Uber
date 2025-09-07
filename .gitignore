@@ -1,2 +1,7 @@
+# Defaults
 node_modules
 .env
+
+# Temps
+added_users.js
+web.config
